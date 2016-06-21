@@ -1,0 +1,5 @@
+E:\studio\Modern-Art-UI-Coursera-master\app\build\intermediates\classes\debug
+E:\studio\Modern-Art-UI-Coursera-master\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-cde0fe43c1d155a84c58787d13ed53f1de001e61.jar
+E:\studio\Modern-Art-UI-Coursera-master\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-c328f02032bb33e42d971138dbe0c0ce3e87e71c.jar
+E:\studio\Modern-Art-UI-Coursera-master\app\build\intermediates\pre-dexed\debug\classes-dc2bfa932a15dccd258bbae5fb2651302a775227.jar
+E:\studio\Modern-Art-UI-Coursera-master\app\build\intermediates\pre-dexed\debug\classes-f8015d560d0e3d70f6af53ab72dd66e9758a5139.jar
